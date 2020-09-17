@@ -1,132 +1,15 @@
-# Bash Away
+# Bash Away 2020
 
-![Logo](./index.png)
-
-<-- badge1 --> <-- badge2 --> <-- badge3 -->
-
-## What is this 
----
-This is a script that automates daily basis tasks. You can do day-today tasks easily with this script.
-
+Write a bash script to automate something that you do on a daily basis, something that is boring to do. Think out of the box. The most creative bash script wins a swag pack from the SLIIT FOSS Community. 
 ## How To
----
-### Intall
 
-```
-cd ~
-apt update
-git clone https://github.com/sliit-foss/bashaway.git
-cd bashaway
-chmod +x install.sh
-./install.sh
-```
-### Run it
+- Fork this repository
+- Clone it and create a directory with the name of the script you are writing
+- Inside the directory, include the script.
+- Include your name and details within the script either as an output or a comment.
+- Add a README.md describing the script, what it does and how one could use it.
+- Open a PR and describe what you have done, and why it is just *AMAZING!*
 
-```
-bshw
-```
-If you remainder task number
+An example has been done for you.
 
-```
-bshw < TaskNumber >
-```
-
-### Uninstall
-
-``` 
-cd ~/.local/share/bashaway 
-./uninstall.sh
-```
-## Tasks
----
-* Update
-    * APT   - u1
-    * DNF   - u2
-    * Yarn  - u3
-    * Npm   - u4
-    * Deno  - u5
-    * Cargo - u6
-* Upgrade
-    * APT   - ug1
-    * DNF   - ug2
-    * Yarn  - ug3
-    * Npm   - ug4
-    * Deno  - ug5
-    * Cargo - ug6
-* Search
-    * APT   - s1
-    * DNF   - s2
-    * Yarn  - s3
-    * Npm   - s3
-    * Deno  - s4
-    * Cargo - s4
-* Install
-    * APT   - i1
-    * DNF   - i2
-    * Yarn  - i3
-    * Npm   - i3
-    * Deno  - i4
-    * Cargo - i5
-* Git
-    * Create repo   - g1
-    * Create branch - g2
-    * Push repo - g3
-    * Pull repo - g4
-* React 
-    * Create new project    - r1   
-* Angular 
-    * Create new project    - ng1
-    * Create new component
-        * with `spec`   - ng2s
-        * without `spec`    - ng2
-    * Create new service
-        * with `spec`   - ng3s
-        * without `spec`    - ng3
-
-## Road map
----
-- [ ] Update
-    - [ ] APT
-    - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
-    - [ ] Cargo
-- [ ] Upgrade
-    - [ ] APT
-    - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
-    - [ ] Cargo
-- [ ] Search
-    - [ ] APT
-    - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
-    - [ ] Cargo
-- [ ] Install
-    - [ ] APT
-    - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
-    - [ ] Cargo
-- [ ] Git
-    - [ ] Create repo
-    - [ ] Create branch
-    - [ ] Push repo
-    - [ ] Pull repo
-- [ ] React 
-    - [ ] Create new project   
-- [ ] Angular 
-    - [ ] Create new project
-    - [ ] Create new component
-        - [ ] With `spec`
-        - [ ] Without `spec`
-    - [ ] Create new service
-        - [ ] With `spec`
-        - [ ] Without `spec`
-- [ ] Create `--help`
-
+*DO NOT* forget to think out of the box!!!

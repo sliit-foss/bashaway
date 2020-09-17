@@ -23,12 +23,12 @@ chmod +x install.sh
 ### Run it
 
 ```
-bshw
+exmsh
 ```
 If you remainder task number
 
 ```
-bshw < TaskNumber >
+exmsh < TaskNumber >
 ```
 
 ### Uninstall
