@@ -1,15 +1,130 @@
-# Bash Away 2020
+# Bash Away
 
-Write a bash script to automate something that you do on a daily basis, something that is boring to do. Think out of the box. The most creative bash script wins a swag pack from the SLIIT FOSS Community. 
-## How To
+![Logo](./index.png)
 
-- Fork this repository
-- Clone it and create a directory with the name of the script you are writing
-- Inside the directory, include the script.
-- Include your name and details within the script either as an output or a comment.
-- Add a README.md describing the script, what it does and how one could use it.
-- Open a PR and describe what you have done, and why it is just *AMAZING!*
+<-- badge1 --> <-- badge2 --> <-- badge3 -->
 
-An example has been done for you.
+## What is this 
 
-*DO NOT* forget to think out of the box!!!
+This is a script that automates daily basis tasks. You can do day-today tasks with this script.
+
+## How To intall
+
+```
+cd ~
+apt update
+git clone https://github.com/sliit-foss/bashaway.git
+cd bashaway
+chmod +x install.sh
+./install.sh
+```
+### How to run it
+
+```
+bshw
+```
+If you remainder task number
+
+```
+bshw < TaskNumber >
+```
+
+### How to uninstall
+
+``` 
+cd ~/.local/share/bashaway 
+./uninstall.sh
+```
+# Tasks
+
+* Update
+    * APT
+    * DNF
+    * Yarn
+    * Npm
+    * Deno
+    * Cargo
+* Upgrade
+    * APT
+    * DNF
+    * Yarn
+    * Npm
+    * Deno
+    * Cargo
+* Search
+    * APT
+    * DNF
+    * Yarn
+    * Npm
+    * Deno
+    * Cargo
+* Install
+    * APT
+    * DNF
+    * Yarn
+    * Npm
+    * Deno
+    * Cargo
+* Git
+    * Create repo
+    * Create branch
+    * Push repo
+    * Pull repo
+* React 
+    * Create new project   
+* Angular 
+    * Create new project
+    * Create new component
+        * with `spec`
+        * without `spec`
+    * Create new service
+        * with `spec`
+        * without `spec`
+
+# Road map
+
+- [ ] Update
+    - [ ] APT
+    - [ ] DNF
+    - [ ] Yarn
+    - [ ] Npm
+    - [ ] Deno
+    - [ ] Cargo
+- [ ] Upgrade
+    - [ ] APT
+    - [ ] DNF
+    - [ ] Yarn
+    - [ ] Npm
+    - [ ] Deno
+    - [ ] Cargo
+- [ ] Search
+    - [ ] APT
+    - [ ] DNF
+    - [ ] Yarn
+    - [ ] Npm
+    - [ ] Deno
+    - [ ] Cargo
+- [ ] Install
+    - [ ] APT
+    - [ ] DNF
+    - [ ] Yarn
+    - [ ] Npm
+    - [ ] Deno
+    - [ ] Cargo
+- [ ] Git
+    - [ ] Create repo
+    - [ ] Create branch
+    - [ ] Push repo
+    - [ ] Pull repo
+- [ ] React 
+    - [ ] Create new project   
+- [ ] Angular 
+    - [ ] Create new project
+    - [ ] Create new component
+        - [ ] with `spec`
+        - [ ] without `spec`
+    - [ ] Create new service
+        - [ ] with `spec`
+        - [ ] without `spec`
+
+
