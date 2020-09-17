@@ -6,7 +6,7 @@
 
 ## What is this 
 ---
-This is a script that automates daily basis tasks. You can do day-today tasks with this script.
+This is a script that automates daily basis tasks. You can do day-today tasks easily with this script.
 
 ## How To
 ---
