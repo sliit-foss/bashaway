@@ -123,10 +123,10 @@ cd ~/.local/share/bashaway
 - [ ] Angular 
     - [ ] Create new project
     - [ ] Create new component
-        - [ ] with `spec`
-        - [ ] without `spec`
+        - [ ] With `spec`
+        - [ ] Without `spec`
     - [ ] Create new service
-        - [ ] with `spec`
-        - [ ] without `spec`
-
+        - [ ] With `spec`
+        - [ ] Without `spec`
+- [ ] Create `--help`
 
