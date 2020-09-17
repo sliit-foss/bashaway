@@ -88,45 +88,45 @@ cd ~/.local/share/example
 - [ ] Update
     - [ ] APT
     - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
-    - [ ] Cargo
+    - [x] Yarn
+    - [x] Npm
+    - [x] Deno
+    - [x] Cargo
 - [ ] Upgrade
-    - [ ] APT
-    - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
+    - [x] APT
+    - [x] DNF
+    - [x] Yarn
+    - [x] Npm
+    - [x] Deno
     - [ ] Cargo
-- [ ] Search
-    - [ ] APT
-    - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
-    - [ ] Cargo
+- [x] Search
+    - [x] APT
+    - [x] DNF
+    - [x] Yarn
+    - [x] Npm
+    - [x] Deno
+    - [x] Cargo
 - [ ] Install
     - [ ] APT
     - [ ] DNF
-    - [ ] Yarn
-    - [ ] Npm
-    - [ ] Deno
+    - [x] Yarn
+    - [x] Npm
+    - [x] Deno
     - [ ] Cargo
 - [ ] Git
-    - [ ] Create repo
+    - [x] Create repo
     - [ ] Create branch
     - [ ] Push repo
     - [ ] Pull repo
-- [ ] React 
-    - [ ] Create new project   
-- [ ] Angular 
-    - [ ] Create new project
-    - [ ] Create new component
-        - [ ] With `spec`
-        - [ ] Without `spec`
-    - [ ] Create new service
-        - [ ] With `spec`
-        - [ ] Without `spec`
+- [x] React 
+    - [x] Create new project   
+- [x] Angular 
+    - [x] Create new project
+    - [x] Create new component
+        - [x] With `spec`
+        - [x] Without `spec`
+    - [x] Create new service
+        - [x] With `spec`
+        - [x] Without `spec`
 - [ ] Create `--help`
 
