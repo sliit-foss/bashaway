@@ -1,15 +1,30 @@
 # Bash Away 2020
 
-Write a bash script to automate something that you do on a daily basis, something that is boring to do. Think out of the box. The most creative bash script wins a swag pack from the SLIIT FOSS Community. 
-## How To
+![Banner](./tmpBanner.jpg)
 
-- Fork this repository
-- Clone it and create a directory with the name of the script you are writing
-- Inside the directory, include the script.
-- Include your name and details within the script either as an output or a comment.
-- Add a README.md describing the script, what it does and how one could use it.
-- Open a PR and describe what you have done, and why it is just *AMAZING!*
+## Are you good at bash script...? 💫
 
-An example has been done for you.
+## Can you think OUT oF THE BoX...? 📦
 
-*DO NOT* forget to think out of the box!!!
+### This is your time... ⏰
+
+#### Can you do `tasks automation ⚙️` ?
+
+__Write a bash 🔧 script to `AUTOMATE DaY-To-DaY BOOOrInG TasKs`.__
+
+## 🚀 If it is the MOST CREATIVE bash script, we give `swag pack`
+
+![swag pack](./swagpack.jpg)
+
+## 🔥 How To
+
+The first one is done for you 😂😂😂 so don't forget to reference it 📕
+
+1. Fork this 🍽
+2. Clone it ⚗️
+3. Create a directory 📂
+4. Add your script 🥣
+5. Add a README.md 🚧
+   - Say "How it is wors" 🗜
+   - Say "Why it AMAZING!" ✨
+6. PR it 🛩
