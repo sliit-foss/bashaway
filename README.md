@@ -10,7 +10,7 @@
 
 #### Can you do `tasks automation ⚙️` ?
 
-__Write a bash 🔧 script to `automate day-to-day boring tasks`.__
+__Write a bash 🔧 script to `AUTOMATE DaY-To-DaY BOOOrInG TasKs`.__
 
 ## 🚀 If it is the MOST CREATIVE bash script, we give `swag pack`
 
