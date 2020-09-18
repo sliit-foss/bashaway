@@ -14,7 +14,7 @@ __Write a bash 🔧 script to `automate day-to-day boring tasks`.__
 
 ## 🚀 If it is the MOST CREATIVE bash script, we give `swag pack`
 
-![swag pack](./tmpswagpack.jpg)
+![swag pack](./swagpack.jpg)
 
 ## 🔥 How To
 
