@@ -1,6 +1,6 @@
 # Bash Away 2020
 
-![Banner](./tmpBanner.jpg)
+![Banner](./assets/tmpBanner.jpg)
 
 ## Are you good at bash script...? 💫
 
@@ -14,7 +14,7 @@ __Write a bash 🔧 script to `AUTOMATE DaY-To-DaY BOOOrInG TasKs`.__
 
 ## 🚀 If it is the MOST CREATIVE bash script, we give `swag pack`
 
-![swag pack](./swagpack.jpg)
+![swag pack](./assets/swagpack.jpg)
 
 ## 🔥 How To
 
