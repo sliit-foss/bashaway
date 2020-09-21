@@ -12,13 +12,13 @@
 
 __Write a bash 🔧 script to `AUTOMATE DaY-To-DaY BOOOrInG TasKs`.__
 
-## 🚀 If it is the MOST CREATIVE bash script, we give `swag pack`
+## 🚀 The most creative bash script takes away a `swag pack`
 
 ![swag pack](./assets/swagpack.jpg)
 
 ## 🔥 How To
 
-The first one is done for you 😂😂😂 so don't forget to reference it 📕
+
 
 1. Fork this 🍽
 2. Clone it ⚗️
@@ -28,3 +28,5 @@ The first one is done for you 😂😂😂 so don't forget to reference it 📕
    - Say "How it is wors" 🗜
    - Say "Why it AMAZING!" ✨
 6. PR it 🛩
+
+Check the examples directory for reference! 📕
