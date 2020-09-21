@@ -6,9 +6,9 @@ labels: ''
 assignees: ''
 
 ---
-## What is the bug?
+## 🤧 What is the bug?
 <!-- A clear and concise description of what the bug is. -->
-## How to Reproduce?
+## 👶 How to Reproduce?
 <!-- 
 Steps to reproduce the behavior:
 1. Go to '...'
@@ -16,7 +16,7 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error 
 -->
-## 🦠 Why it it bug?
+## 🧐 Why it is bug?
 <!--
 A clear and concise description of what you expected to happen.
 -->
