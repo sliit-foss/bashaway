@@ -2,13 +2,13 @@
 
 ![Banner](./assets/tmpBanner.jpg)
 
-## Are you good at bash script...? 💫
+## Are you good at bash scripting...? 💫
 
 ## Can you think OUT oF THE BoX...? 📦
 
-### This is your time... ⏰
+### Your time has come to show off your skills ⏰
 
-#### Can you do `tasks automation ⚙️` ?
+#### Do you love `automating tasks ⚙️` ?
 
 __Write a bash 🔧 script to `AUTOMATE DaY-To-DaY BOOOrInG TasKs`.__
 
@@ -17,7 +17,6 @@ __Write a bash 🔧 script to `AUTOMATE DaY-To-DaY BOOOrInG TasKs`.__
 ![swag pack](./assets/swagpack.jpg)
 
 ## 🔥 How To
-
 
 
 1. Fork this 🍽
