@@ -16,19 +16,19 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error 
 -->
-## Why it it bug?
+## 🦠 Why it it bug?
 <!--
 A clear and concise description of what you expected to happen.
 -->
-## ScreenShots
+## 📷 ScreenShots
 <!-- 
 If applicable, add screenshots to help explain your problem.
 -->
-## Specifications
+## 🎛️ Specifications
   - Version :
   - OS :
   - Shell :
-## Context
+## 📌 Context
 <!-- 
 Add any other context about the problem here.
 -->
