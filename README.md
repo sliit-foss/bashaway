@@ -1,6 +1,6 @@
 # Bash Away 2020
 
-![Banner](./assets/tmpBanner.jpg)
+![Banner](./assets/banner.png)
 
 ## Are you good at bash scripting...? 💫
 
