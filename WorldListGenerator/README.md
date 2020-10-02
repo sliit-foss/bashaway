@@ -29,7 +29,7 @@ ___
 ___
 **Requirements**
 
-The tools needed to download  are:
+The tools needed   are:
 
 1.[hakrawler](https://github.com/hakluke/hakrawler)
 
