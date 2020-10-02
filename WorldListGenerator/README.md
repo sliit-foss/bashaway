@@ -30,16 +30,17 @@ ___
 **Requirements**
 
 The tools needed to download  are:
-[I'm an inline-style link](https://www.google.com)
-(hakrawler)[https://github.com/hakluke/hakrawler]
-2.(httpx)[https://github.com/projectdiscovery/httpx]
 
-3.(unfurl)[https://github.com/tomnomnom/unfurl/]
+1.[hakrawler](https://github.com/hakluke/hakrawler)
 
-4.(fff)[https://github.com/tomnomnom/fff]
+2.[http]([https://github.com/projectdiscovery/httpx)
 
-5.(gau)[https://github.com/lc/gau]
+3.[unfurl](https://github.com/tomnomnom/unfurl/)
 
-6.(waybackurls)[https://github.com/tomnomnom/waybackurls]
+4.[fff](https://github.com/tomnomnom/fff)
+
+5.[gau](https://github.com/lc/gau)
+
+6.[waybackurls](https://github.com/tomnomnom/waybackurls)
 
 7.(tok)[https://github.com/tomnomnom/hacks/tree/master/tok]
