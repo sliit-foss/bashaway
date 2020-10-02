@@ -27,12 +27,11 @@ ___
 
 ```
 ___
--**Requirements**
+**Requirements**
 
-The tools needed to download  are:-
-
-1.(hakrawler)[https://github.com/hakluke/hakrawler]
-
+The tools needed to download  are:
+[I'm an inline-style link](https://www.google.com)
+(hakrawler)[https://github.com/hakluke/hakrawler]
 2.(httpx)[https://github.com/projectdiscovery/httpx]
 
 3.(unfurl)[https://github.com/tomnomnom/unfurl/]
