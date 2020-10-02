@@ -33,7 +33,7 @@ The tools needed to download  are:
 
 1.[hakrawler](https://github.com/hakluke/hakrawler)
 
-2.[http]([https://github.com/projectdiscovery/httpx)
+2.[httpx](https://github.com/projectdiscovery/httpx)
 
 3.[unfurl](https://github.com/tomnomnom/unfurl/)
 
@@ -43,4 +43,4 @@ The tools needed to download  are:
 
 6.[waybackurls](https://github.com/tomnomnom/waybackurls)
 
-7.(tok)[https://github.com/tomnomnom/hacks/tree/master/tok]
+7.[tok](https://github.com/tomnomnom/hacks/tree/master/tok)
