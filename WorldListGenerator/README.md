@@ -40,5 +40,7 @@ The tools needed to download  are:-
 4.(fff)[https://github.com/tomnomnom/fff]
 
 5.(gau)[https://github.com/lc/gau]
-\6.(waybackurls)[https://github.com/tomnomnom/waybackurls]
+
+6.(waybackurls)[https://github.com/tomnomnom/waybackurls]
+
 7.(tok)[https://github.com/tomnomnom/hacks/tree/master/tok]
