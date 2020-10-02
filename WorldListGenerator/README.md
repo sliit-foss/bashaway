@@ -12,7 +12,7 @@
  
 
 **Why is it amazing?**
-``1
+```
 Most of the time bug bounty hunters faced with the site where they have to bruteforce to find hidden file or directory.For the purpose of this,they require to use available wordlists like seclists,rockyou.txt,dirbutser wordlists,etc.These wordlists are exceptionally amazing.
 They could lack something.It would be nice to generate own custom wordlist for  the respsective sites.
 This tool is built by embeding some other tools and the tips provided by the hackers.
@@ -24,7 +24,7 @@ You can generate for own wordlist for your choice sites.If the luck is in your s
 ```
 1.BruteForce for paramters
 2.BruteForce for files and folders
-\
+
 ```
 
 **Requirements**
